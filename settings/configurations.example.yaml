@@ -43,4 +43,5 @@ music:
 # Log level for Bastion's logging. A lower value means less clutter in the
 # console and a higher value means more details in the console.
 # Valid values ranges from 1 - 6
+
 logLevel: 6
